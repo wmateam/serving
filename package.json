@@ -1,0 +1,11 @@
+{
+  "name": "serving",
+  "version": "1.0.0",
+  "description": "http request server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wmateam <wmateam@gmail.com>",
+  "license": "MIT"
+}
