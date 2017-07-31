@@ -3,7 +3,7 @@
  */
 
 "use strict";
-
-exports = module.exports = function () {
+module.exports = require('./lib/router');
+module.exports.hi = function () {
   console.log('Hi from serving');
 }
